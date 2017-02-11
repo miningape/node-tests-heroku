@@ -1,16 +1,18 @@
 {
-  "name": "nodetest",
-  "description": "garbage",
+  "name": "portfolio",
   "version": "1.0.0",
-  "engines": {
-    "node": "6.9.2"
-  },
+  "description": "A website I have created to show off my Node JS skills",
   "scripts": {
+    "test": "console.log(\"Hello World!\");",
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.14.1"
   },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
   "main": "server.js",
   "devDependencies": {},
   "repository": {
