@@ -1,0 +1,29 @@
+{
+  "name": "nodetest",
+  "description": "garbage",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.9.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miningape/node-tests-heroku.git"
+  },
+  "keywords": [
+    "owls"
+  ],
+  "author": "kyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miningape/node-tests-heroku/issues"
+  },
+  "homepage": "https://github.com/miningape/node-tests-heroku#readme"
+}
